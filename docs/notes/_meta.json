@@ -1,0 +1,7 @@
+[
+    { "type": "dir", "name": "zookeeper", "label": "Zookeeper" },
+    { "type": "dir", "name": "linux", "label": "Linux" },
+    { "type": "dir", "name": "paper", "label": "Paper" },
+    { "type": "dir", "name": "misc", "label": "Misc" },
+    { "type": "dir", "name": "hw", "label": "Hardware" }
+]
