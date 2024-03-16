@@ -18,8 +18,6 @@
 
 /*! ../internals/global */
 
-/*! ./toPrimitive.js */
-
 /*! ../internals/symbol-constructor-detection */
 
 /*! ../internals/function-bind-native */
@@ -47,8 +45,6 @@
 /*! ../internals/export */
 
 /*! ../internals/object-define-property */
-
-/*! ./unsupportedIterableToArray.js */
 
 /*! ../internals/fails */
 
@@ -100,6 +96,8 @@
 
 /*! ../internals/is-symbol */
 
+/*! ../internals/global */
+
 /*! ../internals/iterate */
 
 /*! ../internals/an-object */
@@ -138,8 +136,6 @@
 
 /*! ../internals/is-object */
 
-/*! ../internals/global */
-
 /*! ../internals/well-known-symbol */
 
 /*! ../internals/function-uncurry-this */
@@ -166,8 +162,6 @@
 
 /*! ../internals/descriptors */
 
-/*! ./arrayLikeToArray.js */
-
 /*! ../internals/classof-raw */
 
 /*! ../internals/descriptors */
@@ -179,8 +173,6 @@
 /*! ../internals/is-callable */
 
 /*! ../internals/iterator-close */
-
-/*! ./iterableToArray.js */
 
 /*! ../internals/length-of-array-like */
 
@@ -264,8 +256,6 @@
 
 /*! ../internals/function-uncurry-this */
 
-/*! ./objectWithoutPropertiesLoose.js */
-
 /*! ../internals/validate-arguments-length */
 
 /*! ../internals/fails */
@@ -340,11 +330,7 @@
 
 /*! ../internals/global */
 
-/*! ./toPropertyKey.js */
-
 /*! ../internals/global */
-
-/*! ./typeof.js */
 
 /*! ../internals/function-uncurry-this */
 
@@ -401,8 +387,6 @@
 /*! ../internals/is-forced */
 
 /*! ../internals/require-object-coercible */
-
-/*! ./nonIterableSpread.js */
 
 /*! ../internals/create-non-enumerable-property */
 
@@ -540,11 +524,11 @@
 
 /*! ../internals/is-callable */
 
-/*! ../internals/engine-v8-version */
+/*! ../internals/is-pure */
 
 /*! ../internals/function-uncurry-this */
 
-/*! ../internals/symbol-constructor-detection */
+/*! ../internals/engine-v8-version */
 
 /*! ../internals/has-own-property */
 
@@ -560,7 +544,7 @@
 
 /*! ../internals/is-pure */
 
-/*! ../internals/is-pure */
+/*! ../internals/symbol-constructor-detection */
 
 /*! ../internals/to-indexed-object */
 
@@ -570,11 +554,9 @@
 
 /*! ../internals/well-known-symbol */
 
-/*! ./arrayWithoutHoles.js */
+/*! ../internals/get-iterator-direct */
 
 /*! ../internals/function-call */
-
-/*! ../internals/get-iterator-direct */
 
 /*! ../internals/to-string */
 
@@ -597,10 +579,6 @@
 /*! ../internals/iterators */
 
 /*! ../internals/global */
-
-/*! ./typeof.js */
-
-/*! ./arrayLikeToArray.js */
 
 /*! ../internals/is-object */
 
