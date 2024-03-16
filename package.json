@@ -8,9 +8,15 @@
     "preview": "rspress preview"
   },
   "dependencies": {
-    "rspress": "^1.0.0"
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
   },
   "devDependencies": {
-    "@types/node": "^16"
+    "@rspress/plugin-last-updated": "^1.15.1",
+    "@types/node": "^16",
+    "rehype-katex": "^7.0.0",
+    "rehype-mathjax": "^6.0.0",
+    "remark-math": "5.1.1",
+    "rspress": "^1.0.0"
   }
 }
